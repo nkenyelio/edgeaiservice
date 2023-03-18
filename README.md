@@ -1,0 +1,1 @@
+ starts-ai-projects-stratsscripts
